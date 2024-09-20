@@ -37,7 +37,6 @@
 ## C 
 
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF
-- [vitorafsr/i8kutils](https://github.com/vitorafsr/i8kutils) - Fan control for some Dell laptops
 
 ## C# # 
 
@@ -61,7 +60,6 @@
 - [William-Yeh/docker-ansible](https://github.com/William-Yeh/docker-ansible) - Docker images for Ansible software, installed in a selected Linux distributions (Debian/Ubuntu/CentOS/Alpine).
 - [e-bits/openshift-client](https://github.com/e-bits/openshift-client) - OpenShift Client (OC)
 - [sbt/docker-sbt](https://github.com/sbt/docker-sbt) - Official sbt docker images
-- [geerlingguy/docker-ubuntu1804-ansible](https://github.com/geerlingguy/docker-ubuntu1804-ansible) - Ubuntu 18.04 LTS (Bionic) Docker container for Ansible playbook and role testing.
 
 ## Elixir 
 
