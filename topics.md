@@ -137,7 +137,6 @@
 - [geerlingguy/ansible-role-java](https://github.com/geerlingguy/ansible-role-java) - Ansible Role - Java
 - [cetic/ansible-role-liferay](https://github.com/cetic/ansible-role-liferay) - Ansible Role - Liferay
 - [cetic/ansible-role-alfresco](https://github.com/cetic/ansible-role-alfresco) - Ansible Role - Alfresco
-- [geerlingguy/docker-ubuntu1804-ansible](https://github.com/geerlingguy/docker-ubuntu1804-ansible) - Ubuntu 18.04 LTS (Bionic) Docker container for Ansible playbook and role testing.
 
 ## api 
 
@@ -321,7 +320,6 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
-- [geerlingguy/docker-ubuntu1804-ansible](https://github.com/geerlingguy/docker-ubuntu1804-ansible) - Ubuntu 18.04 LTS (Bionic) Docker container for Ansible playbook and role testing.
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 
 ## documentation 
@@ -624,7 +622,6 @@
 - [torstenwalter/helm-chart-hosting](https://github.com/torstenwalter/helm-chart-hosting) - Provides instructions and templates which can be used when migrating helm charts
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
-- [vitorafsr/i8kutils](https://github.com/vitorafsr/i8kutils) - Fan control for some Dell laptops
 - [cardsagainstcontainers/deck](https://github.com/cardsagainstcontainers/deck) - Most recent content for the deck of cards
 - [cetic/python-deb](https://github.com/cetic/python-deb) - A way to convert python projet into debian package in CI Pipeline
 - [kubepack/chart-doc-gen](https://github.com/kubepack/chart-doc-gen) - Helm Chart Documentation Generator
@@ -813,7 +810,6 @@
 
 - [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
 - [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Rocky & Debian with Ansible 2.16, 2.15, 2.14, 2.13, 2.12, 2.11, 2.10 and 2.9 + Mitogen
-- [geerlingguy/docker-ubuntu1804-ansible](https://github.com/geerlingguy/docker-ubuntu1804-ansible) - Ubuntu 18.04 LTS (Bionic) Docker container for Ansible playbook and role testing.
 
 ## vagrant 
 
