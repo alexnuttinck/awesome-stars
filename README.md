@@ -237,6 +237,7 @@
 
 ## Python 
 
+- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [IMIO/gha](https://github.com/IMIO/gha) - Repository hosting our GitHub actions
 - [camptocamp/marabunta](https://github.com/camptocamp/marabunta) - :ant::ant::ant: Migrating ants for Odoo :ant::ant::ant:
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
