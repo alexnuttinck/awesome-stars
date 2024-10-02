@@ -588,6 +588,7 @@
 
 ## others 
 
+- [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify) - 🔏 Keycloak theming for the modern web
 - [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) - Adds a Metrics Endpoint to Keycloak
 - [GlodoUK/helm-charts](https://github.com/GlodoUK/helm-charts) - 
 - [IMIO/gha](https://github.com/IMIO/gha) - Repository hosting our GitHub actions
