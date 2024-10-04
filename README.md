@@ -126,7 +126,6 @@
 - [kubicorn/kubicorn](https://github.com/kubicorn/kubicorn) - Simple, cloud native infrastructure for Kubernetes.
 - [fubarhouse/ansible-role-tester](https://github.com/fubarhouse/ansible-role-tester) - A small program which will run isolated tests for Ansible roles on a local file system in a Docker container
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 
 ## Groovy 
 
@@ -238,6 +237,8 @@
 
 ## Python 
 
+- [timothycrosley/streamdeck-ui](https://github.com/timothycrosley/streamdeck-ui) - A Linux compatible UI for the Elgato Stream Deck.
+- [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [IMIO/gha](https://github.com/IMIO/gha) - Repository hosting our GitHub actions
 - [camptocamp/marabunta](https://github.com/camptocamp/marabunta) - :ant::ant::ant: Migrating ants for Odoo :ant::ant::ant:
