@@ -398,6 +398,7 @@
 
 ## hacktoberfest 
 
+- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [gimlet-io/onechart](https://github.com/gimlet-io/onechart) - A generic Helm chart for your application deployments
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
@@ -581,6 +582,7 @@
 
 ## others 
 
+- [sp-ricard-valverde/github-act-cache-server](https://github.com/sp-ricard-valverde/github-act-cache-server) - Github artifact cache server to be used locally
 - [timothycrosley/streamdeck-ui](https://github.com/timothycrosley/streamdeck-ui) - A Linux compatible UI for the Elgato Stream Deck.
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins
 - [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify) - 🔏 Keycloak theming for the modern web
