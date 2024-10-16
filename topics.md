@@ -434,6 +434,7 @@
 
 ## java 
 
+- [dasniko/keycloak-extensions-demo](https://github.com/dasniko/keycloak-extensions-demo) - Demos, examples and playground for Keycloak extensions, providers, SPI implementations, etc.
 - [geerlingguy/ansible-role-elasticsearch](https://github.com/geerlingguy/ansible-role-elasticsearch) - Ansible Role - Elasticsearch
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [geerlingguy/ansible-role-java](https://github.com/geerlingguy/ansible-role-java) - Ansible Role - Java
