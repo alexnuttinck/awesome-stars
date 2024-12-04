@@ -160,6 +160,8 @@
 
 ## JavaScript 
 
+- [PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition](https://github.com/PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition) - Keycloak - Identity and Access Management for Modern Applications, 2nd Edition
+- [auth0/openidconnect-playground](https://github.com/auth0/openidconnect-playground) - 
 - [sp-ricard-valverde/github-act-cache-server](https://github.com/sp-ricard-valverde/github-act-cache-server) - Github artifact cache server to be used locally
 - [hashicorp/vault-action](https://github.com/hashicorp/vault-action) - A GitHub Action that simplifies using HashiCorp Vault™ secrets as build variables.
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
