@@ -35,6 +35,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [electron](#electron)
 - [elixir](#elixir)
 - [emoji](#emoji)
@@ -324,6 +325,10 @@
 ## documentation 
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## dotfiles 
+
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 
 ## electron 
 
