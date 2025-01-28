@@ -604,6 +604,7 @@
 
 ## open-source 
 
+- [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard) - An actions-powered dashboard to get an overview of your organization's open source repository health
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
