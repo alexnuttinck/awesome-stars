@@ -56,7 +56,7 @@
 - [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image
 - [cbrgm/7days-docker](https://github.com/cbrgm/7days-docker) - Docker Image for running a 7 Days To Die dedicated Gameserver in a Container!
 - [CSCfi/shibboleth-idp-dockerized](https://github.com/CSCfi/shibboleth-idp-dockerized) - A Shibboleth Identity Provider (IdP) base-image
-- [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Rocky & Debian with Ansible 2.16, 2.15, 2.14, 2.13, 2.12, 2.11, 2.10 and 2.9 + Mitogen
+- [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Rocky & Debian with Ansible 2.18, 2.17, 2.16, 2.15, 2.14, 2.13 + Mitogen
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [William-Yeh/docker-ansible](https://github.com/William-Yeh/docker-ansible) - Docker images for Ansible software, installed in a selected Linux distributions (Debian/Ubuntu/CentOS/Alpine).
 - [e-bits/openshift-client](https://github.com/e-bits/openshift-client) - OpenShift Client (OC)
