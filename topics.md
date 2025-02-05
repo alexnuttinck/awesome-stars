@@ -610,6 +610,7 @@
 
 ## others 
 
+- [apple/pkl-k8s-examples](https://github.com/apple/pkl-k8s-examples) - Examples for using Pkl with Kubernetes
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [auth0/openidconnect-playground](https://github.com/auth0/openidconnect-playground) - 
 - [sp-ricard-valverde/github-act-cache-server](https://github.com/sp-ricard-valverde/github-act-cache-server) - Github artifact cache server to be used locally
