@@ -23,6 +23,7 @@
 - [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
+- [Pkl](#pkl)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -242,6 +243,10 @@
 ## PHP 
 
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
+
+## Pkl 
+
+- [apple/pkl-k8s-examples](https://github.com/apple/pkl-k8s-examples) - Examples for using Pkl with Kubernetes
 
 ## PowerShell 
 
