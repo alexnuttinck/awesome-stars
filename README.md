@@ -213,6 +213,7 @@
 
 ## Others 
 
+- [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [aeciopires/learning-cka](https://github.com/aeciopires/learning-cka) - Learning content for the Certified Kubernetes Administrator - CKA
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
