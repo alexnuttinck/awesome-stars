@@ -37,7 +37,7 @@
 
 ## C 
 
-- [OpenIDC/mod_auth_openidc](https://github.com/OpenIDC/mod_auth_openidc) - OpenID Certified™ OpenID Connect Relying Party implementation for Apache HTTP Server 2.x
+- [OpenIDC/mod_auth_openidc](https://github.com/OpenIDC/mod_auth_openidc) - OpenID Certified™ OpenID Connect and FAPI 2 Relying Party module for Apache HTTPd
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF
 
 ## C# # 
