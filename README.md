@@ -262,6 +262,7 @@
 
 ## Python 
 
+- [IMIO/pas.plugins.kimug](https://github.com/IMIO/pas.plugins.kimug) - A PAS plugins to set roles for iMio users from Keycloak
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [timothycrosley/streamdeck-ui](https://github.com/timothycrosley/streamdeck-ui) - A Linux compatible UI for the Elgato Stream Deck.
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins
