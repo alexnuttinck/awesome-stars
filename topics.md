@@ -619,6 +619,7 @@
 
 ## others 
 
+- [keycloak/keycloak-grafana-dashboard](https://github.com/keycloak/keycloak-grafana-dashboard) - 
 - [IMIO/pas.plugins.kimug](https://github.com/IMIO/pas.plugins.kimug) - A PAS plugins to set roles for iMio users from Keycloak
 - [apple/pkl-k8s-examples](https://github.com/apple/pkl-k8s-examples) - Examples for using Pkl with Kubernetes
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
