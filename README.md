@@ -355,7 +355,6 @@
 - [plone/helm-charts](https://github.com/plone/helm-charts) - Helm Charts for Plone 6
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
 - [cetic/helm-microservice](https://github.com/cetic/helm-microservice) - A Helm Chart for DRY microservice deployments
-- [aeciopires/my_helm_charts](https://github.com/aeciopires/my_helm_charts) - My Helm Charts for Kubernetes
 
 ## Starlark 
 
