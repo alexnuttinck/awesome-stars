@@ -669,7 +669,6 @@
 - [cardsagainstcontainers/deck](https://github.com/cardsagainstcontainers/deck) - Most recent content for the deck of cards
 - [cetic/python-deb](https://github.com/cetic/python-deb) - A way to convert python projet into debian package in CI Pipeline
 - [kubepack/chart-doc-gen](https://github.com/kubepack/chart-doc-gen) - Helm Chart Documentation Generator
-- [aeciopires/my_helm_charts](https://github.com/aeciopires/my_helm_charts) - My Helm Charts for Kubernetes
 - [banzo/tardigr8](https://github.com/banzo/tardigr8) - 
 - [cetic/helm-mlflow](https://github.com/cetic/helm-mlflow) - A repository of helm charts
 - [mizzy/serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
