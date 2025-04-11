@@ -31,6 +31,7 @@
 - [database](#database)
 - [deployment](#deployment)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -267,10 +268,16 @@
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
+## development 
+
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
 ## devops 
 
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
+- [IMIO/pas.plugins.kimug](https://github.com/IMIO/pas.plugins.kimug) - A PAS plugins to set roles for iMio users from Keycloak
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [IMIO/gha](https://github.com/IMIO/gha) - Repository hosting our GitHub actions
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault
@@ -623,7 +630,6 @@
 ## others 
 
 - [keycloak/keycloak-grafana-dashboard](https://github.com/keycloak/keycloak-grafana-dashboard) - 
-- [IMIO/pas.plugins.kimug](https://github.com/IMIO/pas.plugins.kimug) - A PAS plugins to set roles for iMio users from Keycloak
 - [apple/pkl-k8s-examples](https://github.com/apple/pkl-k8s-examples) - Examples for using Pkl with Kubernetes
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [auth0/openidconnect-playground](https://github.com/auth0/openidconnect-playground) - 
@@ -633,7 +639,6 @@
 - [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify) - 🔏 Keycloak theming for the modern web
 - [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) - Adds a Metrics Endpoint to Keycloak
 - [GlodoUK/helm-charts](https://github.com/GlodoUK/helm-charts) - 
-- [IMIO/gha](https://github.com/IMIO/gha) - Repository hosting our GitHub actions
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [hashicorp/vault-action](https://github.com/hashicorp/vault-action) - A GitHub Action that simplifies using HashiCorp Vault™ secrets as build variables.
 - [sventorben/keycloak-home-idp-discovery](https://github.com/sventorben/keycloak-home-idp-discovery) - Keycloak: Home IdP Discovery - discover home identity provider or realm by email domain
