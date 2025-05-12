@@ -23,6 +23,7 @@
 - [Makefile](#makefile)
 - [Mustache](#mustache)
 - [Nix](#nix)
+- [Nu](#nu)
 - [Others](#others)
 - [PHP](#php)
 - [Pkl](#pkl)
@@ -221,9 +222,12 @@
 
 ## Nix 
 
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [nix-community/nixpkgs-terraform-providers-bin](https://github.com/nix-community/nixpkgs-terraform-providers-bin) - auto-updating terraform providers for nix [maintainer=@zimbatm]
+
+## Nu 
+
+- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 
 ## Others 
 
@@ -307,6 +311,7 @@
 
 ## Rust 
 
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -341,7 +346,6 @@
 - [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 - [lwolf/helm-kubectl-docker](https://github.com/lwolf/helm-kubectl-docker) - docker image with helm and kubectl installed
 - [elgohr/Publish-Docker-Github-Action](https://github.com/elgohr/Publish-Docker-Github-Action) - A Github Action used to build and publish Docker images
-- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [jldeen/helm3-demo](https://github.com/jldeen/helm3-demo) - Helm 3 Demo for v3.0.0 (Stable)
 - [cetic/helm-phpLDAPadmin](https://github.com/cetic/helm-phpLDAPadmin) - Helm Chart for phpLDAPadmin
 - [cetic/helm-pgadmin](https://github.com/cetic/helm-pgadmin) - Helm Chart for pgAdmin
