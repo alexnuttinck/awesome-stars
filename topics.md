@@ -98,6 +98,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [vagrant](#vagrant)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -862,6 +863,10 @@
 
 - [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
 - [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Rocky & Debian with Ansible 2.18, 2.17, 2.16, 2.15, 2.14, 2.13 + Mitogen
+
+## ui 
+
+- [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
 
 ## vagrant 
 
