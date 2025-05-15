@@ -125,7 +125,7 @@
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts
 - [helm/chart-releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [helm/helm-2to3](https://github.com/helm/helm-2to3) - ⚠️(OBSOLETE) This is a Helm v3 plugin which migrates and cleans up Helm v2 configuration and releases in-place to Helm v3
