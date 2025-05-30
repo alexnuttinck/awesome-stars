@@ -90,6 +90,7 @@
 - [shell](#shell)
 - [software](#software)
 - [spring-boot](#spring-boot)
+- [sql](#sql)
 - [statistics](#statistics)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
@@ -259,6 +260,7 @@
 
 ## database 
 
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 ## deployment 
@@ -275,6 +277,7 @@
 
 ## devops 
 
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
 - [IMIO/pas.plugins.kimug](https://github.com/IMIO/pas.plugins.kimug) - A PAS plugins to set roles for iMio users from Keycloak
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -482,6 +485,7 @@
 
 ## kubernetes 
 
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [redhat-actions/buildah-build](https://github.com/redhat-actions/buildah-build) - GitHub Action to use 'buildah' to build a container image.
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management
@@ -707,6 +711,7 @@
 
 ## postgresql 
 
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## powershell 
@@ -816,6 +821,10 @@
 
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+
+## sql 
+
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 
 ## statistics 
 
