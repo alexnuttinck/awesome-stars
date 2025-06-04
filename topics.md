@@ -615,6 +615,7 @@
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
+- [zabbix-community/helm-zabbix](https://github.com/zabbix-community/helm-zabbix) - Helm chart for Zabbix
 - [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana dashboard
 - [cetic/helm-zabbix](https://github.com/cetic/helm-zabbix) - Helm Chart For Zabbix
 
