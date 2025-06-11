@@ -376,6 +376,7 @@
 - [redhat-actions/buildah-build](https://github.com/redhat-actions/buildah-build) - GitHub Action to use 'buildah' to build a container image.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
+- [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard) - An actions-powered dashboard to get an overview of your organization's open source repository health
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify) - 🔏 Keycloak theming for the modern web
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
