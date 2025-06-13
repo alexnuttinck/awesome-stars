@@ -329,6 +329,7 @@
 
 ## Shell 
 
+- [jpetazzo/shpod](https://github.com/jpetazzo/shpod) - Container image to get a consistent training environment to work on Kubernetes.
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [stefanprodan/helm-gh-pages](https://github.com/stefanprodan/helm-gh-pages) - A GitHub Action for publishing Helm charts to Github Pages
 - [mmumshad/kubernetes-the-hard-way](https://github.com/mmumshad/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Vagrant on Local Machine. No scripts.
