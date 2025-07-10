@@ -651,6 +651,7 @@
 
 ## others 
 
+- [mesutpiskin/keycloak-2fa-email-authenticator](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator) - 🔒  Keycloak Authentication Provider implementation to get a two factor authentication with a OTP/code/token send via Email (through SMTP)
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [keycloak/keycloak-grafana-dashboard](https://github.com/keycloak/keycloak-grafana-dashboard) - 
 - [apple/pkl-k8s-examples](https://github.com/apple/pkl-k8s-examples) - Examples for using Pkl with Kubernetes
