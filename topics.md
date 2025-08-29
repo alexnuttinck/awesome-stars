@@ -851,7 +851,7 @@
 
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
-- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 
 ## software 
 
@@ -883,7 +883,7 @@
 ## terminal 
 
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 
 ## terraform 
 
@@ -957,7 +957,7 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
-- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 
 ## xml 
 
