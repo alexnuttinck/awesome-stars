@@ -45,6 +45,7 @@
 - [elixir](#elixir)
 - [emoji](#emoji)
 - [firefox](#firefox)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -394,6 +395,10 @@
 ## firefox 
 
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
+
+## gaming 
+
+- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 
 ## git 
 
