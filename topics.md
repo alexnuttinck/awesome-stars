@@ -41,6 +41,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
+- [dotnet](#dotnet)
 - [electron](#electron)
 - [elixir](#elixir)
 - [emoji](#emoji)
@@ -71,6 +72,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [monitoring](#monitoring)
+- [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [open-source](#open-source)
@@ -377,6 +379,10 @@
 
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 
+## dotnet 
+
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
+
 ## electron 
 
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -459,6 +465,7 @@
 
 ## hacktoberfest 
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [collective/pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) - PAS plugin for OpenID Connect authentication
 - [trueforge-org/truecharts](https://github.com/trueforge-org/truecharts) - Community Helm Chart Repository
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
@@ -502,6 +509,7 @@
 
 ## java 
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [dasniko/keycloak-extensions-demo](https://github.com/dasniko/keycloak-extensions-demo) - Demos, examples and playground for Keycloak extensions, providers, SPI implementations, etc.
 - [geerlingguy/ansible-role-elasticsearch](https://github.com/geerlingguy/ansible-role-elasticsearch) - Ansible Role - Elasticsearch
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
@@ -522,6 +530,7 @@
 
 ## kubernetes 
 
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [jpetazzo/shpod](https://github.com/jpetazzo/shpod) - Container image to get a consistent training environment to work on Kubernetes.
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
@@ -658,6 +667,10 @@
 - [zabbix-community/helm-zabbix](https://github.com/zabbix-community/helm-zabbix) - Helm chart for Zabbix
 - [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana dashboard
 - [cetic/helm-zabbix](https://github.com/cetic/helm-zabbix) - Helm Chart For Zabbix
+
+## node 
+
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 
 ## nodejs 
 
