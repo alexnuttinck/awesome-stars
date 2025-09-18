@@ -159,7 +159,7 @@
 ## HTML 
 
 - [unguiculus/gh-pages-helm-chart-repo-example](https://github.com/unguiculus/gh-pages-helm-chart-repo-example) - Hosting a Helm Charts Repo using GitHub Pages and Releases
-- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 
 ## JSON 
