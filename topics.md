@@ -75,6 +75,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [monitoring](#monitoring)
+- [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
@@ -442,6 +443,7 @@
 
 ## github 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -492,6 +494,7 @@
 
 ## hacktoberfest 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [sbidoul/runboat](https://github.com/sbidoul/runboat) - A simple runbot lookalike on kubernetes. Main goal is replacing the OCA runbot.
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [collective/pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) - PAS plugin for OpenID Connect authentication
@@ -544,6 +547,7 @@
 
 ## javascript 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [phishy/wflow](https://github.com/phishy/wflow) - 🐆 EXPERIMENTAL -- Runs GitHub Actions workflows locally (local) -- Don't run your YAML like a 🐪
 
 ## jenkins 
@@ -697,6 +701,10 @@
 - [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana dashboard
 - [cetic/helm-zabbix](https://github.com/cetic/helm-zabbix) - Helm Chart For Zabbix
 
+## nextjs 
+
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+
 ## node 
 
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
@@ -846,6 +854,7 @@
 
 ## react 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [ethibox/ethibox](https://github.com/ethibox/ethibox) - Open-source web app hoster
 - [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
@@ -853,6 +862,7 @@
 
 ## reactjs 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [greglobinski/gatsby-starter-hero-blog](https://github.com/greglobinski/gatsby-starter-hero-blog) - A ready to use, easy to customize, fully equipped GatsbyJS starter with a 'Hero' section on the home page.
 
 ## ruby 
