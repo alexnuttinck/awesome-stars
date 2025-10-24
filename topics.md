@@ -729,6 +729,7 @@
 
 ## others 
 
+- [netzbegruenung/keycloak-mfa-plugins](https://github.com/netzbegruenung/keycloak-mfa-plugins) - Keycloak plugins for MFA (enforce MFA, SMS authentication step, native app integration)
 - [khairul169/garage-webui](https://github.com/khairul169/garage-webui) - WebUI for Garage Object Storage Service
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) - Generate a Breakout game SVG from a GitHub user's contributions graph
