@@ -797,7 +797,7 @@
 - [medyagh/kic](https://github.com/medyagh/kic) - 
 - [unguiculus/gh-pages-helm-chart-repo-example](https://github.com/unguiculus/gh-pages-helm-chart-repo-example) - Hosting a Helm Charts Repo using GitHub Pages and Releases
 - [jfrazee/awesome-nifi](https://github.com/jfrazee/awesome-nifi) - A list of useful Apache NiFi resources, processor bundles and tools
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [Sellto/k3s-startup](https://github.com/Sellto/k3s-startup) - 
 - [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [pine64dev/PINE64-Installer](https://github.com/pine64dev/PINE64-Installer) - Flash PINE64 OS images to SD cards safely and easily.
