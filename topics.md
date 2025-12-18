@@ -111,6 +111,7 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
@@ -981,6 +982,10 @@
 - [Kubedex/chart-test-template](https://github.com/Kubedex/chart-test-template) - Template for Helm Charts (including test framework)
 - [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 - [inspec/inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
+
+## tui 
+
+- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 
 ## typescript 
 
