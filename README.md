@@ -155,6 +155,7 @@
 ## Go Template 
 
 - [trueforge-org/truecharts](https://github.com/trueforge-org/truecharts) - Community Helm Chart Repository
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
 
 ## Groovy 
 
@@ -348,6 +349,7 @@
 
 ## Shell 
 
+- [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [jpetazzo/shpod](https://github.com/jpetazzo/shpod) - Container image to get a consistent training environment to work on Kubernetes.
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
@@ -381,7 +383,6 @@
 
 - [GlodoUK/helm-charts](https://github.com/GlodoUK/helm-charts) - 
 - [plone/helm-charts](https://github.com/plone/helm-charts) - Helm Charts for Plone 6
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
 - [cetic/helm-microservice](https://github.com/cetic/helm-microservice) - A Helm Chart for DRY microservice deployments
 
 ## Starlark 
