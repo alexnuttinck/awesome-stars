@@ -52,6 +52,7 @@
 
 ## C++ 
 
+- [WoutSwinkels/nix-cpp-devenvs](https://github.com/WoutSwinkels/nix-cpp-devenvs) - Reproducible C++ environments with Nix and Bazel
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
@@ -237,6 +238,7 @@
 
 ## Nix 
 
+- [drupol/nix-hands-on](https://github.com/drupol/nix-hands-on) - 
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [nix-community/nixpkgs-terraform-providers-bin](https://github.com/nix-community/nixpkgs-terraform-providers-bin) - auto-updating terraform providers for nix [maintainer=@zimbatm]
 
