@@ -86,6 +86,7 @@
 - [npm](#npm)
 - [open-source](#open-source)
 - [others](#others)
+- [p2p](#p2p)
 - [package-manager](#package-manager)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -123,6 +124,7 @@
 - [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
+- [web3](#web3)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -251,6 +253,7 @@
 
 ## cloud 
 
+- [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [redhat-actions/buildah-build](https://github.com/redhat-actions/buildah-build) - GitHub Action to use 'buildah' to build a container image.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [cetic/vacsine](https://github.com/cetic/vacsine) - Adaptive continuous security  orchestration in polymorphous environments
@@ -509,6 +512,7 @@
 
 ## hacktoberfest 
 
+- [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -579,6 +583,7 @@
 
 ## kubernetes 
 
+- [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [sbidoul/runboat](https://github.com/sbidoul/runboat) - A simple runbot lookalike on kubernetes. Main goal is replacing the OCA runbot.
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
@@ -764,6 +769,8 @@
 
 ## others 
 
+- [kairos-io/kairos-operator](https://github.com/kairos-io/kairos-operator) - 
+- [jimmykarily/cfgmgmtcamp-kairos-workshop](https://github.com/jimmykarily/cfgmgmtcamp-kairos-workshop) - https://cfp.cfgmgmtcamp.org/ghent2026/talk/review/YHZ3AZFRJTKFD7XUUQGTSX7EL9HTU8XW
 - [WoutSwinkels/nix-cpp-devenvs](https://github.com/WoutSwinkels/nix-cpp-devenvs) - Reproducible C++ environments with Nix and Bazel
 - [drupol/nix-hands-on](https://github.com/drupol/nix-hands-on) - 
 - [argoproj-labs/argocd-monorepo-controller](https://github.com/argoproj-labs/argocd-monorepo-controller) - 
@@ -840,6 +847,10 @@
 - [BrianEnigma/aws_flash_cards](https://github.com/BrianEnigma/aws_flash_cards) - 
 - [cetic/tsimulus-ms](https://github.com/cetic/tsimulus-ms) - A microservice for accessing the realistic time series generator.
 - [axel-halin/Thesis-JHipster](https://github.com/axel-halin/Thesis-JHipster) - 
+
+## p2p 
+
+- [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 
 ## package-manager 
 
@@ -1043,6 +1054,7 @@
 
 ## vpn 
 
+- [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
 
 ## vue 
@@ -1054,6 +1066,10 @@
 
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## web3 
+
+- [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 
 ## webapp 
 
