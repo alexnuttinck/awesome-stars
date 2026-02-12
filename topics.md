@@ -770,7 +770,7 @@
 ## others 
 
 - [kairos-io/kairos-operator](https://github.com/kairos-io/kairos-operator) - 
-- [jimmykarily/cfgmgmtcamp-kairos-workshop](https://github.com/jimmykarily/cfgmgmtcamp-kairos-workshop) - https://cfp.cfgmgmtcamp.org/ghent2026/talk/review/YHZ3AZFRJTKFD7XUUQGTSX7EL9HTU8XW
+- [kairos-io/workshop-kubernetes-intro](https://github.com/kairos-io/workshop-kubernetes-intro) - https://cfp.cfgmgmtcamp.org/ghent2026/talk/review/YHZ3AZFRJTKFD7XUUQGTSX7EL9HTU8XW
 - [WoutSwinkels/nix-cpp-devenvs](https://github.com/WoutSwinkels/nix-cpp-devenvs) - Reproducible C++ environments with Nix and Bazel
 - [drupol/nix-hands-on](https://github.com/drupol/nix-hands-on) - 
 - [argoproj-labs/argocd-monorepo-controller](https://github.com/argoproj-labs/argocd-monorepo-controller) - 
