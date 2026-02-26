@@ -208,7 +208,7 @@
 - [pine64dev/PINE64-Installer](https://github.com/pine64dev/PINE64-Installer) - Flash PINE64 OS images to SD cards safely and easily.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [greglobinski/gatsby-starter-hero-blog](https://github.com/greglobinski/gatsby-starter-hero-blog) - A ready to use, easy to customize, fully equipped GatsbyJS starter with a 'Hero' section on the home page.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 
 ## Jinja 
