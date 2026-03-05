@@ -179,6 +179,7 @@
 
 ## Java 
 
+- [sshaaf/keycloak-mcp-server](https://github.com/sshaaf/keycloak-mcp-server) - An MCP server for Keycloak,  designed to work with Keycloak for identity and access management, covering, Users, Realms, Clients, Roles, Groups, IDPs, Authentication. Searching keycloak discourse, Nat
 - [netzbegruenung/keycloak-mfa-plugins](https://github.com/netzbegruenung/keycloak-mfa-plugins) - Keycloak plugins for MFA (enforce MFA, SMS authentication step, native app integration)
 - [mesutpiskin/keycloak-2fa-email-authenticator](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator) - 🔒  Keycloak Authentication Provider implementation to get a two factor authentication with a OTP/code/token send via Email (SMTP, SendGrid, AWS SES)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
