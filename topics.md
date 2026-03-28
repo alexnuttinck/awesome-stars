@@ -385,6 +385,7 @@
 
 ## docker 
 
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
@@ -594,6 +595,7 @@
 
 ## kubernetes 
 
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [STRRL/cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller) - 🚀 Expose the website directly into the internet! The Kuberntes Ingress Controller based on Cloudflare Tunnel.
