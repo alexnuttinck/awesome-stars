@@ -8,7 +8,6 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [CMake](#cmake)
 - [Clojure](#clojure)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -57,10 +56,6 @@
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
-
-## CMake 
-
-- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 
 ## Clojure 
 
@@ -218,7 +213,7 @@
 ## Jinja 
 
 - [geerlingguy/ansible-role-elasticsearch](https://github.com/geerlingguy/ansible-role-elasticsearch) - Ansible Role - Elasticsearch
-- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Hashicorp Vault
+- [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - Ansible role to install HashiCorp Vault
 - [riemers/ansible-gitlab-runner](https://github.com/riemers/ansible-gitlab-runner) - Ansible role to install gitlab-runner
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [geerlingguy/ansible-role-java](https://github.com/geerlingguy/ansible-role-java) - Ansible Role - Java
@@ -389,6 +384,7 @@
 - [cetic/helm-pgadmin](https://github.com/cetic/helm-pgadmin) - Helm Chart for pgAdmin
 - [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello
 - [AlexsJones/kubernetes-nifi-cluster](https://github.com/AlexsJones/kubernetes-nifi-cluster) - Apache Nifi cluster running in kubernetes
+- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [cetic/ansible-role-liferay](https://github.com/cetic/ansible-role-liferay) - Ansible Role - Liferay
 - [cetic/ansible-role-alfresco](https://github.com/cetic/ansible-role-alfresco) - Ansible Role - Alfresco
 
