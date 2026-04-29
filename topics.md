@@ -18,6 +18,7 @@
 - [bash](#bash)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chrome](#chrome)
 - [claude-code](#claude-code)
 - [cli](#cli)
@@ -235,6 +236,10 @@
 
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
+
+## c-sharp 
+
+- [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 
 ## chrome 
 
