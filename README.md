@@ -16,12 +16,12 @@
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
-- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Mustache](#mustache)
 - [Nix](#nix)
 - [Nu](#nu)
@@ -172,10 +172,6 @@
 - [unguiculus/gh-pages-helm-chart-repo-example](https://github.com/unguiculus/gh-pages-helm-chart-repo-example) - Hosting a Helm Charts Repo using GitHub Pages and Releases
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 
-## JSON 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 ## Java 
 
 - [sshaaf/keycloak-mcp-server](https://github.com/sshaaf/keycloak-mcp-server) - An MCP server for Keycloak,  designed to work with Keycloak for identity and access management, covering, Users, Realms, Clients, Roles, Groups, IDPs, Authentication. Searching keycloak discourse, Nat
@@ -227,6 +223,10 @@
 
 - [cytopia/docker-ansible](https://github.com/cytopia/docker-ansible) - Alpine-based multistage-build version of Ansible for reproducible usage in CI
 - [Kubedex/chart-test-template](https://github.com/Kubedex/chart-test-template) - Template for Helm Charts (including test framework)
+
+## Markdown 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Mustache 
 
