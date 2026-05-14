@@ -230,6 +230,7 @@
 
 ## Mustache 
 
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes
 - [gimlet-io/onechart](https://github.com/gimlet-io/onechart) - A generic Helm chart for your application deployments
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor
 - [zabbix-community/helm-zabbix](https://github.com/zabbix-community/helm-zabbix) - Helm chart for Zabbix
@@ -397,7 +398,6 @@
 
 ## Starlark 
 
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## TeX 
