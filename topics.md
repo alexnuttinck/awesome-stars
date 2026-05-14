@@ -48,7 +48,6 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
-- [dotnet](#dotnet)
 - [electron](#electron)
 - [elixir](#elixir)
 - [emoji](#emoji)
@@ -84,7 +83,6 @@
 - [monitoring](#monitoring)
 - [nextjs](#nextjs)
 - [no-code](#no-code)
-- [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [open-source](#open-source)
@@ -334,6 +332,7 @@
 
 ## deployment 
 
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 
 ## design 
@@ -443,10 +442,6 @@
 
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 
-## dotnet 
-
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
-
 ## electron 
 
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -540,7 +535,6 @@
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [sbidoul/runboat](https://github.com/sbidoul/runboat) - A simple runbot lookalike on kubernetes. Main goal is replacing the OCA runbot.
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [collective/pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) - PAS plugin for OpenID Connect authentication
 - [trueforge-org/truecharts](https://github.com/trueforge-org/truecharts) - Community Helm Chart Repository
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
@@ -584,7 +578,6 @@
 ## java 
 
 - [sshaaf/keycloak-mcp-server](https://github.com/sshaaf/keycloak-mcp-server) - An MCP server for Keycloak,  designed to work with Keycloak for identity and access management, covering, Users, Realms, Clients, Roles, Groups, IDPs, Authentication. Searching keycloak discourse, Nat
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [dasniko/keycloak-extensions-demo](https://github.com/dasniko/keycloak-extensions-demo) - Demos, examples and playground for Keycloak extensions, providers, SPI implementations, etc.
 - [geerlingguy/ansible-role-elasticsearch](https://github.com/geerlingguy/ansible-role-elasticsearch) - Ansible Role - Elasticsearch
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
@@ -614,7 +607,7 @@
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [sbidoul/runboat](https://github.com/sbidoul/runboat) - A simple runbot lookalike on kubernetes. Main goal is replacing the OCA runbot.
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes
 - [jpetazzo/shpod](https://github.com/jpetazzo/shpod) - Container image to get a consistent training environment to work on Kubernetes.
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
@@ -759,6 +752,7 @@
 
 ## monitoring 
 
+- [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
@@ -773,10 +767,6 @@
 ## no-code 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-## node 
-
-- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 
 ## nodejs 
 
