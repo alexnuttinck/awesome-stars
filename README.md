@@ -176,7 +176,7 @@
 
 - [sshaaf/keycloak-mcp-server](https://github.com/sshaaf/keycloak-mcp-server) - An MCP server for Keycloak,  designed to work with Keycloak for identity and access management, covering, Users, Realms, Clients, Roles, Groups, IDPs, Authentication. Searching keycloak discourse, Nat
 - [netzbegruenung/keycloak-mfa-plugins](https://github.com/netzbegruenung/keycloak-mfa-plugins) - Keycloak plugins for MFA (enforce MFA, SMS authentication step, native app integration)
-- [mesutpiskin/keycloak-2fa-email-authenticator](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator) - 🔒  Keycloak Authentication Provider implementation to get a two factor authentication with a OTP/code/token send via Email (SMTP, SendGrid, AWS SES)
+- [mesutpiskin/keycloak-2fa-email-authenticator](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator) - 🔒  Keycloak Authentication Provider implementation to get a two factor authentication with a OTP/code/token send via Email (SMTP, SendGrid, AWS SES, Mailgun)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [dasniko/keycloak-extensions-demo](https://github.com/dasniko/keycloak-extensions-demo) - Demos, examples and playground for Keycloak extensions, providers, SPI implementations, etc.
 - [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) - Adds a Metrics Endpoint to Keycloak
@@ -371,7 +371,7 @@
 - [adionditsak/blacklist-check-unix-linux-utility](https://github.com/adionditsak/blacklist-check-unix-linux-utility) - Blacklist check UNIX/Linux utility. I was just a bit tired of web interfaces.
 - [vinanrra/Docker-7DaysToDie](https://github.com/vinanrra/Docker-7DaysToDie) - 7 days to die server using LinuxGSM in Docker with backups, monitor, auto-installable mods and more
 - [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) - Dynamic sub-dir volume provisioner on a remote NFS server.
-- [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
+- [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash, fish, and zsh
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
