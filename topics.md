@@ -244,7 +244,7 @@
 
 ## claude-code 
 
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - multi-session toolbox for claude code, cursor, codex, gemini
 
 ## cli 
 
@@ -782,7 +782,7 @@
 ## others 
 
 - [vj2201/CKA-PREP-2025-v2](https://github.com/vj2201/CKA-PREP-2025-v2) - 
-- [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents) - Pixel office.
+- [pixel-agents-hq/pixel-agents](https://github.com/pixel-agents-hq/pixel-agents) - Pixel office.
 - [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local clus
 - [kairos-io/kairos-operator](https://github.com/kairos-io/kairos-operator) - 
 - [kairos-io/workshop-kubernetes-intro](https://github.com/kairos-io/workshop-kubernetes-intro) - https://cfp.cfgmgmtcamp.org/ghent2026/talk/review/YHZ3AZFRJTKFD7XUUQGTSX7EL9HTU8XW
