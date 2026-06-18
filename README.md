@@ -300,7 +300,7 @@
 - [sbidoul/runboat](https://github.com/sbidoul/runboat) - A simple runbot lookalike on kubernetes. Main goal is replacing the OCA runbot.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [collective/pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) - PAS plugin for OpenID Connect authentication
-- [IMIO/pas.plugins.kimug](https://github.com/IMIO/pas.plugins.kimug) - A PAS plugins to set roles for iMio users from Keycloak
+- [IMIO/pas.plugins.kimug](https://github.com/IMIO/pas.plugins.kimug) - Plone PAS plugin authenticating iMio Keycloak ("Wallonie Connect") SSO users and assigning their roles. Extends pas.plugins.oidc.
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [timothycrosley/streamdeck-ui](https://github.com/timothycrosley/streamdeck-ui) - A Linux compatible UI for the Elgato Stream Deck.
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins
