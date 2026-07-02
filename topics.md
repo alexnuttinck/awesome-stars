@@ -752,7 +752,6 @@
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [zabbix-community/helm-zabbix](https://github.com/zabbix-community/helm-zabbix) - Helm chart for Zabbix
-- [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana dashboard
 - [cetic/helm-zabbix](https://github.com/cetic/helm-zabbix) - Helm Chart For Zabbix
 
 ## nextjs 
@@ -828,6 +827,7 @@
 - [netson/ansible-gpg-key](https://github.com/netson/ansible-gpg-key) - Module to manage GPG keys from files and keyservers.
 - [devopsgroup-io/vagrant-hostmanager](https://github.com/devopsgroup-io/vagrant-hostmanager) - :pencil: A Vagrant plugin that manages hosts files within a multi-machine environment.
 - [CSCfi/shibboleth-idp-dockerized](https://github.com/CSCfi/shibboleth-idp-dockerized) - A Shibboleth Identity Provider (IdP) base-image
+- [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana
 - [petres/gnome-shell-extension-services-systemd](https://github.com/petres/gnome-shell-extension-services-systemd) - Gnome Shell Extension that allows to start and stop systemd services
 - [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) - Dynamic sub-dir volume provisioner on a remote NFS server.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
