@@ -51,6 +51,7 @@
 
 ## C++ 
 
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [WoutSwinkels/nix-cpp-devenvs](https://github.com/WoutSwinkels/nix-cpp-devenvs) - Reproducible C++ environments with Nix and Bazel
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id's DOOM!
