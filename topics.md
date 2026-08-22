@@ -253,11 +253,11 @@
 
 ## claude 
 
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - multi-session tool for claude code, cursor, codex, gemini
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - terminal-native ADE for claude code, cursor, codex, opencode and more
 
 ## claude-code 
 
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - multi-session tool for claude code, cursor, codex, gemini
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - terminal-native ADE for claude code, cursor, codex, opencode and more
 
 ## cli 
 
