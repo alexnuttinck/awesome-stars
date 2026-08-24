@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -141,6 +142,10 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 
+## ai-agents 
+
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents. Terminal-native ADE for claude code, codex, cursor, opencode, grok and more
+
 ## analytics 
 
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
@@ -253,11 +258,11 @@
 
 ## claude 
 
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - terminal-native ADE for claude code, cursor, codex, opencode, grok and more
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents. Terminal-native ADE for claude code, codex, cursor, opencode, grok and more
 
 ## claude-code 
 
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - terminal-native ADE for claude code, cursor, codex, opencode, grok and more
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents. Terminal-native ADE for claude code, codex, cursor, opencode, grok and more
 
 ## cli 
 
