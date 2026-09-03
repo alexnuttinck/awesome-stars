@@ -126,6 +126,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [vagrant](#vagrant)
+- [vim](#vim)
 - [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
@@ -1108,6 +1109,10 @@
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - Ansible role to install HashiCorp Vault
 - [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt) - Vagrant provider for libvirt.
 - [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello
+
+## vim 
+
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - agentic development environment for claude code, codex, cursor, opencode, grok and more.
 
 ## vpn 
 
