@@ -434,6 +434,7 @@
 - [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible) - Ansible inside Docker containers: Alpine, Ubuntu, Rocky Linux & Debian with Ansible 2.21, 2.20, 2.19, 2.18 & more (older still supported)
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [phishy/wflow](https://github.com/phishy/wflow) - 🐆 EXPERIMENTAL -- Runs GitHub Actions workflows locally (local) -- Don't run your YAML like a 🐪
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
@@ -871,7 +872,6 @@
 - [SODALITE-EU/defect-prediction](https://github.com/SODALITE-EU/defect-prediction) - This module is to detect the bugs in TOSCA and Ansible Scripts.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [torstenwalter/helm-chart-hosting](https://github.com/torstenwalter/helm-chart-hosting) - Provides instructions and templates which can be used when migrating helm charts
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [cardsagainstcontainers/deck](https://github.com/cardsagainstcontainers/deck) - Most recent content for the deck of cards
 - [cetic/python-deb](https://github.com/cetic/python-deb) - A way to convert python projet into debian package in CI Pipeline
