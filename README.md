@@ -192,7 +192,6 @@
 
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition](https://github.com/PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition) - Keycloak - Identity and Access Management for Modern Applications, 2nd Edition
-- [auth0/openidconnect-playground](https://github.com/auth0/openidconnect-playground) - 
 - [sp-ricard-valverde/github-act-cache-server](https://github.com/sp-ricard-valverde/github-act-cache-server) - Github artifact cache server to be used locally
 - [hashicorp/vault-action](https://github.com/hashicorp/vault-action) - A GitHub Action that simplifies using HashiCorp Vault™ secrets as build variables.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
@@ -422,6 +421,7 @@
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
 - [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard) - An actions-powered dashboard to get an overview of your organization's open source repository health
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [auth0/openidconnect-playground](https://github.com/auth0/openidconnect-playground) - 
 - [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify) - 🔏 Keycloak theming for the modern web
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
