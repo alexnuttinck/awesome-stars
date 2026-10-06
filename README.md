@@ -105,7 +105,7 @@
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [MichaelTrip/cfgmgmtcamp2024-sources](https://github.com/MichaelTrip/cfgmgmtcamp2024-sources) - This repository contains the code from my presentation on cfgmgmtcamp 2024.
-- [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
+- [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [goharbor/terraform-provider-harbor](https://github.com/goharbor/terraform-provider-harbor) - A Terraform provider for Harbor. To configure and manage all aspects of your Harbor Container Registry with Terraform Infrastructure as Code.
