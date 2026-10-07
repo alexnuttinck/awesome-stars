@@ -300,6 +300,7 @@
 
 ## Python 
 
+- [bluedynamics/zodb-pgjsonb](https://github.com/bluedynamics/zodb-pgjsonb) - ZODB storage adapter for PostgreSQL using JSONB, powered by zodb-json-codec.
 - [OCA/server-tools](https://github.com/OCA/server-tools) - Tools for Odoo Administrators to improve some technical features on Odoo.
 - [camptocamp/odoo-hybrid](https://github.com/camptocamp/odoo-hybrid) - 
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
