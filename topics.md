@@ -127,6 +127,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [vagrant](#vagrant)
+- [video](#video)
 - [vim](#vim)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -611,6 +612,7 @@
 
 ## javascript 
 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [phishy/wflow](https://github.com/phishy/wflow) - 🐆 EXPERIMENTAL -- Runs GitHub Actions workflows locally (local) -- Don't run your YAML like a 🐪
 
@@ -823,6 +825,7 @@
 
 ## others 
 
+- [bluedynamics/zodb-s3blobs](https://github.com/bluedynamics/zodb-s3blobs) - Store ZODB blobs in S3-compatible object storage.
 - [camptocamp/odoo-hybrid](https://github.com/camptocamp/odoo-hybrid) - 
 - [rajsinghtech/garage-operator](https://github.com/rajsinghtech/garage-operator) - A Kubernetes operator for managing Garage - a distributed S3-compatible object storage system designed for self-hosting.
 - [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software
@@ -918,6 +921,7 @@
 
 ## postgresql 
 
+- [bluedynamics/zodb-pgjsonb](https://github.com/bluedynamics/zodb-pgjsonb) - ZODB storage adapter for PostgreSQL using JSONB, powered by zodb-json-codec.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
@@ -971,6 +975,7 @@
 
 ## react 
 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [ethibox/ethibox](https://github.com/ethibox/ethibox) - Open-source web app hoster
 - [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
@@ -1122,6 +1127,10 @@
 - [ansible-community/ansible-vault](https://github.com/ansible-community/ansible-vault) - Ansible role to install HashiCorp Vault
 - [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt) - Vagrant provider for libvirt.
 - [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello
+
+## video 
+
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 
 ## vim 
 
