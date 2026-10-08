@@ -300,6 +300,7 @@
 
 ## Python 
 
+- [bluedynamics/zodb-s3blobs](https://github.com/bluedynamics/zodb-s3blobs) - Store ZODB blobs in S3-compatible object storage.
 - [bluedynamics/zodb-pgjsonb](https://github.com/bluedynamics/zodb-pgjsonb) - ZODB storage adapter for PostgreSQL using JSONB, powered by zodb-json-codec.
 - [OCA/server-tools](https://github.com/OCA/server-tools) - Tools for Odoo Administrators to improve some technical features on Odoo.
 - [camptocamp/odoo-hybrid](https://github.com/camptocamp/odoo-hybrid) - 
@@ -412,6 +413,7 @@
 
 ## TypeScript 
 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [pixel-agents-hq/pixel-agents](https://github.com/pixel-agents-hq/pixel-agents) - Pixel office.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [khairul169/garage-webui](https://github.com/khairul169/garage-webui) - WebUI for Garage Object Storage Service
