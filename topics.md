@@ -627,6 +627,7 @@
 
 ## kubernetes 
 
+- [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts
 - [apache/solr-operator](https://github.com/apache/solr-operator) - Official Kubernetes operator for Apache Solr
 - [theplatformlab/CKA-Certified-Kubernetes-Administrator](https://github.com/theplatformlab/CKA-Certified-Kubernetes-Administrator) - CKA Certification Exam Guide 2026 — study notes, practice questions, kubectl cheat sheet, exam tips, and full Kubernetes v1.35 syllabus breakdown. Covers etcd backup, RBAC, kubeadm, Gateway API, Netwo
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
