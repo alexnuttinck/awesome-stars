@@ -96,6 +96,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -568,6 +569,7 @@
 
 ## hacktoberfest 
 
+- [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
 - [OCA/server-tools](https://github.com/OCA/server-tools) - Tools for Odoo Administrators to improve some technical features on Odoo.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -943,6 +945,10 @@
 
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+
+## portfolio 
+
+- [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
 
 ## postgresql 
 
