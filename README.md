@@ -175,6 +175,7 @@
 
 ## HTML 
 
+- [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
 - [unguiculus/gh-pages-helm-chart-repo-example](https://github.com/unguiculus/gh-pages-helm-chart-repo-example) - Hosting a Helm Charts Repo using GitHub Pages and Releases
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 
