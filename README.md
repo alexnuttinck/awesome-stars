@@ -302,11 +302,13 @@
 
 ## Python 
 
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [bluedynamics/zodb-s3blobs](https://github.com/bluedynamics/zodb-s3blobs) - Store ZODB blobs in S3-compatible object storage.
 - [bluedynamics/zodb-pgjsonb](https://github.com/bluedynamics/zodb-pgjsonb) - ZODB storage adapter for PostgreSQL using JSONB, powered by zodb-json-codec.
 - [OCA/server-tools](https://github.com/OCA/server-tools) - Tools for Odoo Administrators to improve some technical features on Odoo.
 - [camptocamp/odoo-hybrid](https://github.com/camptocamp/odoo-hybrid) - 
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [sbidoul/runboat](https://github.com/sbidoul/runboat) - A simple runbot lookalike on kubernetes. Main goal is replacing the OCA runbot.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [collective/pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) - PAS plugin for OpenID Connect authentication
@@ -365,11 +367,11 @@
 
 ## Shell 
 
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [theplatformlab/CKA-Certified-Kubernetes-Administrator](https://github.com/theplatformlab/CKA-Certified-Kubernetes-Administrator) - CKA Certification Exam Guide 2026 — study notes, practice questions, kubectl cheat sheet, exam tips, and full Kubernetes v1.35 syllabus breakdown. Covers etcd backup, RBAC, kubeadm, Gateway API, Netwo
 - [vj2201/CKA-PREP-2025-v2](https://github.com/vj2201/CKA-PREP-2025-v2) - 
 - [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local clus
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A mock exams for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
-- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [jpetazzo/shpod](https://github.com/jpetazzo/shpod) - Container image to get a consistent training environment to work on Kubernetes.
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [stefanprodan/helm-gh-pages](https://github.com/stefanprodan/helm-gh-pages) - A GitHub Action for publishing Helm charts to Github Pages
