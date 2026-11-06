@@ -225,6 +225,7 @@
 
 ## Makefile 
 
+- [zabbix-community/helm-zabbix](https://github.com/zabbix-community/helm-zabbix) - Helm chart for Zabbix
 - [cytopia/docker-ansible](https://github.com/cytopia/docker-ansible) - Alpine-based multistage-build version of Ansible for reproducible usage in CI
 - [Kubedex/chart-test-template](https://github.com/Kubedex/chart-test-template) - Template for Helm Charts (including test framework)
 
@@ -237,7 +238,6 @@
 - [stakater/application](https://github.com/stakater/application) - Generic Helm chart for deploying stateless applications on Kubernetes
 - [gimlet-io/onechart](https://github.com/gimlet-io/onechart) - A generic Helm chart for your application deployments
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor
-- [zabbix-community/helm-zabbix](https://github.com/zabbix-community/helm-zabbix) - Helm chart for Zabbix
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [cetic/helm-mlflow](https://github.com/cetic/helm-mlflow) - A repository of helm charts
 - [cetic/helm-swagger-ui](https://github.com/cetic/helm-swagger-ui) - Helm Chart for Swagger UI
