@@ -162,6 +162,7 @@
 - [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts
 - [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software
 - [trueforge-org/truecharts](https://github.com/trueforge-org/truecharts) - Community Helm Chart Repository
+- [plone/helm-charts](https://github.com/plone/helm-charts) - Helm Charts for Plone 6
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
 
 ## Groovy 
@@ -404,7 +405,6 @@
 ## Smarty 
 
 - [GlodoUK/helm-charts](https://github.com/GlodoUK/helm-charts) - 
-- [plone/helm-charts](https://github.com/plone/helm-charts) - Helm Charts for Plone 6
 - [cetic/helm-microservice](https://github.com/cetic/helm-microservice) - A Helm Chart for DRY microservice deployments
 
 ## Starlark 
