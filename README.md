@@ -311,7 +311,7 @@
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [sbidoul/runboat](https://github.com/sbidoul/runboat) - A simple runbot lookalike on kubernetes. Main goal is replacing the OCA runbot.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [collective/pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) - PAS plugin for OpenID Connect authentication
 - [IMIO/pas.plugins.kimug](https://github.com/IMIO/pas.plugins.kimug) - Plone PAS plugin authenticating iMio Keycloak ("Wallonie Connect") SSO users and assigning their roles. Extends pas.plugins.oidc.
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
