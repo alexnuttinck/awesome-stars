@@ -257,6 +257,7 @@
 
 ## Others 
 
+- [ferr079/humanizer-fr](https://github.com/ferr079/humanizer-fr) - Fork français du skill Claude Code « humanizer » (blader/humanizer v3.1.0, MIT) : 29 motifs d'écriture IA adaptés au français, installable en plugin
 - [kairos-io/workshop-kubernetes-intro](https://github.com/kairos-io/workshop-kubernetes-intro) - Learn how to deploy an immutable, image-based Kubernetes cluster using Kairos
 - [IMIO/gha-workflows](https://github.com/IMIO/gha-workflows) - Reusable github actions workflows
 - [keycloak/keycloak-grafana-dashboard](https://github.com/keycloak/keycloak-grafana-dashboard) - 
