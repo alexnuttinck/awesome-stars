@@ -164,7 +164,6 @@
 - [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts
 - [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software
 - [trueforge-org/truecharts](https://github.com/trueforge-org/truecharts) - Community Helm Chart Repository
-- [plone/helm-charts](https://github.com/plone/helm-charts) - Helm Charts for Plone 6
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
 
 ## Groovy 
@@ -322,6 +321,7 @@
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [IMIO/gha](https://github.com/IMIO/gha) - Repository hosting our GitHub actions
 - [camptocamp/marabunta](https://github.com/camptocamp/marabunta) - :ant::ant::ant: Migrating ants for Odoo :ant::ant::ant:
+- [plone/helm-charts](https://github.com/plone/helm-charts) - Helm Charts for Plone 6
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [greenhost/certbot-haproxy](https://github.com/greenhost/certbot-haproxy) - HAProxy plugin for Let's Encrypt's Certbot
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
